@@ -61,7 +61,7 @@ Check disk space.
 Check folder size.
 
 
-# ⚙️ Process Management Commands
+#  Process Management Commands
 
 `ps aux`  
 Show running processes.
