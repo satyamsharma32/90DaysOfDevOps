@@ -1,0 +1,2 @@
+name = "satyam"
+location ="india"
