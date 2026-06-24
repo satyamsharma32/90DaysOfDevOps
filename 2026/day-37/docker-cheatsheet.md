@@ -104,7 +104,4 @@ Meaning:
 * Host Port = 8080
 * Container Port = 80
 
-Access application:
-
-http://localhost:8080
 
